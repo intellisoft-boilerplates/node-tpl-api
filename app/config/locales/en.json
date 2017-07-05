@@ -1,0 +1,155 @@
+{
+	"dayOfWeek": {
+		"monday": "Monday",
+		"tuesday": "Tuesday",
+		"wednesday": "Wednesday",
+		"thursday": "Thursday",
+		"friday": "Friday",
+		"saturday": "Saturday",
+		"sunday": "Sunday"
+	},
+	"date": {
+		"months": "Months",
+		"days": "Days",
+		"hours": "Hours",
+		"minutes": "Minutes",
+		"seconds": "Seconds"
+	},
+	"address": {
+		"country": "Country",
+		"town": "Town",
+		"streetNr": "Street/Nr",
+		"additionalLine": "Additional Line",
+		"zip": "Zip"
+	},
+	"admin": {
+		"config": "Config",
+		"logs": "Logs",
+		"statistics": "Statistics",
+		"users": "Users",
+		"company": "Company",
+		"adminUsers": "Admin Users",
+		"companies": "Companies",
+		"customers": "Customers",
+		"projects": "Projects",
+		"suppliers": "Suppliers",
+		"objects": "Objects",
+		"devices": "Devices",
+		"orders": "Orders/Delivery",
+		"delivery": "Delivery",
+		"all": "List",
+		"create": "Create",
+		"update": "Update",
+		"schedule": "Schedule"
+	},
+	"header": {
+		"home": "home",
+		"myAccount": "my account",
+		"dataCollection": "heater-data",
+		"login": "login",
+		"logout": "Log out",
+		"registration": "registration",
+		"employee": "employee",
+		"admin": "admin",
+		"superAdmin": "super admin",
+		"users": "users",
+		"projects": "projects",
+		"heaters": "heaters",
+		"silos": "silos",
+		"orders": "orders",
+		"demo": "demo",
+		"loggedin": "logged in as"
+	},
+	"alert": {
+		"success": "Success!",
+		"updated": "Updated",
+		"created": "Created"
+	},
+	"user": {
+		"username": "User Name (Email)",
+		"password": "Password",
+		"confirmPassword": "Confirm Password",
+		"company": "Company",
+		"customer": "Customer",
+		"email": "Email",
+		"role": "Role",
+		"realName": "Real Name (First/Last)",
+		"phone": "Cell phone Number",
+		"preferredLanguage": "Preferred Language",
+		"forgot_password": "Forgot your password?",
+		"back_to_login": "Back to login page",
+		"forgot_title": "Please enter your User Name (Email)",
+		"reset_title": "Please enter your new Password",
+		"alert": {
+			"warning": "The email or password you have entered is invalid. Please try again.",
+			"warning_forgot": "The email you have entered is not known.",
+			"success_forgot": "Please check your email and click the secure link. If you don’t see our email, check your spam folder.",
+			"success_reset": "Password updated. Please re-login"
+		},
+		"validation": {
+			"password": "A password should be at least 6 characters long",
+			"confirm": "Passwords must match",
+			"customer": "Already assigned"
+		},
+		"settings": "Settings"
+	},
+	"button": {
+		"add": "add",
+		"add_record": "add record",
+		"autoFill": "Auto-fill",
+		"cancel": "cancel",
+		"copy": "copy",
+		"create": "create",
+		"edit": "edit",
+		"view": "view",
+		"login": "login",
+		"ok": "ok",
+		"refresh": "refresh",
+		"remove": "remove",
+		"save": "save",
+		"send": "send",
+		"update": "update",
+		"upload": "upload",
+		"confirm": "confirm",
+		"delivered": "delivered",
+		"prolong": "prolong"
+	},
+	"input": {
+		"pleaseSelect": "Please select ..."
+	},
+	"confirm": {
+		"removeItem": {
+			"title": "Are you sure to delete the record?",
+			"textContent": "Record will be deleted permanently."
+		},
+		"leavePage": {
+			"title": "Are you sure to leave this page without saving?",
+			"textContent": "Changes will be lost."
+		},
+		"adjustDuration": {
+			"title": "Do you want to adjust a duration of this object/project?",
+			"textContent": ""
+		}
+	},
+	"demo": {
+		"title": "Demo page"
+	},
+	"email": {
+		"forgot_password": {
+			"subject": "Password Reset",
+			"text": "You are receiving this because you (or someone else) have requested the reset of the password for your account.\n\n Please click on the following link, or paste this into your browser to complete the process:\n\n {{ link }} If you did not request this, please ignore this email and your password will remain unchanged.\n"
+		},
+		"changed_password": {
+			"subject": "Your password has been changed",
+			"text": "Hello,\n\n This is a confirmation that the password for your account {{ username }} has just been changed."
+		}
+	},
+	"validation": {
+		"name": "Already exists"
+	},
+	"http_error" : {
+		"404": "page not found",
+		"644": "permission denied"
+	},
+	"h:m": "h:m"
+}
